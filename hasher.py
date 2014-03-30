@@ -5,6 +5,7 @@ import base64
 import os
 import getpass
 import random
+import getopt
 import re
 salt = ""
 opsorder = ""
