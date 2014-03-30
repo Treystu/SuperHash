@@ -256,6 +256,6 @@ for cmd in opsorder:
 	print cmd
 	print password
 	print ""
-
+raw_input('Press Enter to exit')
 	
 	
